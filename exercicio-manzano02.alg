@@ -11,7 +11,7 @@ var
 inicio
 
     contadora <- 1
-    enquanto contadora < 101 entao
+    enquanto contadora < 101 faca
         soma <- contadora + soma
         contadora <- contadora + 1
     fimenquanto
